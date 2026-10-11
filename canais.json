@@ -1,0 +1,840 @@
+{
+  "versao": 1,
+  "atualizado": "2026-10-11",
+  "canais": [
+    {
+      "id": "tv-brasil",
+      "nome": "TV Brasil",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tv-brasil.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCSv9d0kQegylHWpP83jWSQg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCSv9d0kQegylHWpP83jWSQg/live"
+      }
+    },
+    {
+      "id": "tv-camara",
+      "nome": "TV Câmara",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Câmara dos Deputados",
+      "logo": "logos/tv-camara.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA/live"
+      }
+    },
+    {
+      "id": "tv-senado",
+      "nome": "TV Senado",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Senado Federal",
+      "logo": "logos/tv-senado.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCLgti7NuK0RuW9wty-fxPjQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCLgti7NuK0RuW9wty-fxPjQ/live"
+      }
+    },
+    {
+      "id": "tv-justica",
+      "nome": "TV Justiça",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tv-justica.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC0qlZ5jxxueKNzUERcrllNw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC0qlZ5jxxueKNzUERcrllNw/live"
+      }
+    },
+    {
+      "id": "tv-cultura",
+      "nome": "TV Cultura",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tv-cultura.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCjOJvvYe6tyEHY21OD33h8A",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCjOJvvYe6tyEHY21OD33h8A/live"
+      }
+    },
+    {
+      "id": "canal-gov",
+      "nome": "Canal Gov",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Governo Federal",
+      "logo": "logos/canal-gov.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg/live"
+      }
+    },
+    {
+      "id": "tv-escola",
+      "nome": "TV Escola",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Educativa",
+      "logo": "logos/tv-escola.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCXo2rqv4LNLnwX11kfYsoig",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCXo2rqv4LNLnwX11kfYsoig/live"
+      }
+    },
+    {
+      "id": "canal-futura",
+      "nome": "Canal Futura",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Educativa",
+      "logo": "logos/canal-futura.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC2mmP8ysfyko40KSn90x6Og",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC2mmP8ysfyko40KSn90x6Og/live"
+      }
+    },
+    {
+      "id": "cnn-brasil",
+      "nome": "CNN Brasil",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Notícias",
+      "logo": "logos/cnn-brasil.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live"
+      }
+    },
+    {
+      "id": "jovem-pan-news",
+      "nome": "Jovem Pan News",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Notícias",
+      "logo": "logos/jovem-pan-news.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA/live"
+      }
+    },
+    {
+      "id": "record-news",
+      "nome": "Record News",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Notícias",
+      "logo": "logos/record-news.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live"
+      }
+    },
+    {
+      "id": "sbt-news",
+      "nome": "SBT News",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Notícias",
+      "logo": "logos/sbt-news.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA/live"
+      }
+    },
+    {
+      "id": "band-jornalismo",
+      "nome": "Band Jornalismo",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Notícias",
+      "logo": "logos/band-jornalismo.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA/live"
+      }
+    },
+    {
+      "id": "cancao-nova",
+      "nome": "Canção Nova",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Religiosa",
+      "logo": "logos/cancao-nova.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC6V9mqiVuzd-v3ozUfCtZFA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC6V9mqiVuzd-v3ozUfCtZFA/live"
+      }
+    },
+    {
+      "id": "tv-aparecida",
+      "nome": "TV Aparecida",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Religiosa",
+      "logo": "logos/tv-aparecida.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCfYrK5JU5EznsnK3wQE7iIg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCfYrK5JU5EznsnK3wQE7iIg/live"
+      }
+    },
+    {
+      "id": "rede-vida",
+      "nome": "Rede Vida",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Religiosa",
+      "logo": "logos/rede-vida.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCO8Xj__-fz-YJEJ2gN7h9gQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCO8Xj__-fz-YJEJ2gN7h9gQ/live"
+      }
+    },
+    {
+      "id": "novo-tempo",
+      "nome": "Novo Tempo",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Religiosa",
+      "logo": "logos/novo-tempo.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC_OaSsAydgSIjUtjYn9qLog",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC_OaSsAydgSIjUtjYn9qLog/live"
+      }
+    },
+    {
+      "id": "rede-seculo-21",
+      "nome": "Rede Século 21",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Religiosa",
+      "logo": "logos/rede-seculo-21.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCGm27Ndv8a-0yUJFVpRwkDQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCGm27Ndv8a-0yUJFVpRwkDQ/live"
+      }
+    },
+    {
+      "id": "tv-aleac",
+      "nome": "TV Aleac",
+      "estados": [
+        "AC"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-aleac.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCPCdacddyXivYklExiGjrqQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCPCdacddyXivYklExiGjrqQ/live"
+      }
+    },
+    {
+      "id": "tv-assembleia-al",
+      "nome": "TV Assembleia AL",
+      "estados": [
+        "AL"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-assembleia-al.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCsUlC3bMIHtmEmaVt9E5G3g",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCsUlC3bMIHtmEmaVt9E5G3g/live"
+      }
+    },
+    {
+      "id": "alap",
+      "nome": "ALAP",
+      "estados": [
+        "AP"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/alap.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCHakhE3KpoMFlsjy05lGhHA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCHakhE3KpoMFlsjy05lGhHA/live"
+      }
+    },
+    {
+      "id": "aleam",
+      "nome": "Aleam",
+      "estados": [
+        "AM"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/aleam.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCbFN-xDJJJzbBqDhAZDH6Yg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCbFN-xDJJJzbBqDhAZDH6Yg/live"
+      }
+    },
+    {
+      "id": "tv-alba",
+      "nome": "TV ALBA",
+      "estados": [
+        "BA"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-alba.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCSv_XzKsyDzIsOOHRpme_Ow",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCSv_XzKsyDzIsOOHRpme_Ow/live"
+      }
+    },
+    {
+      "id": "tve-bahia",
+      "nome": "TVE Bahia",
+      "estados": [
+        "BA"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tve-bahia.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC3croy4Mmkr_CpssQihMytw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC3croy4Mmkr_CpssQihMytw/live"
+      }
+    },
+    {
+      "id": "alece-tv",
+      "nome": "Alece TV",
+      "estados": [
+        "CE"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/alece-tv.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCPppVZ4NhFbDWmXCj78WuVw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCPppVZ4NhFbDWmXCj78WuVw/live"
+      }
+    },
+    {
+      "id": "tv-camara-distrital",
+      "nome": "TV Câmara Distrital",
+      "estados": [
+        "DF"
+      ],
+      "descricao": "Câmara Legislativa",
+      "logo": "logos/tv-camara-distrital.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCq1lyhE02Q9I0x8gBDM9lOQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCq1lyhE02Q9I0x8gBDM9lOQ/live"
+      }
+    },
+    {
+      "id": "ales",
+      "nome": "Assembleia ES",
+      "estados": [
+        "ES"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/ales.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCWooZZntqkVthzzjdHq0VRg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCWooZZntqkVthzzjdHq0VRg/live"
+      }
+    },
+    {
+      "id": "tve-es",
+      "nome": "TVE Espírito Santo",
+      "estados": [
+        "ES"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tve-es.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC94kyY3rSw4j4LjAd8tUBBw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC94kyY3rSw4j4LjAd8tUBBw/live"
+      }
+    },
+    {
+      "id": "tv-alego",
+      "nome": "TV Assembleia GO",
+      "estados": [
+        "GO"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-alego.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC62tBsh6awMUD5cyBrjvr8Q",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC62tBsh6awMUD5cyBrjvr8Q/live"
+      }
+    },
+    {
+      "id": "tv-brasil-central",
+      "nome": "TV Brasil Central",
+      "estados": [
+        "GO"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tv-brasil-central.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCTRp0APA50MmSh9U03MDXSA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCTRp0APA50MmSh9U03MDXSA/live"
+      }
+    },
+    {
+      "id": "tv-assembleia-ma",
+      "nome": "TV Assembleia MA",
+      "estados": [
+        "MA"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-assembleia-ma.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCQTEYscjlvwG_1j0a0Wky0w",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCQTEYscjlvwG_1j0a0Wky0w/live"
+      }
+    },
+    {
+      "id": "tv-assembleia-mt",
+      "nome": "TV Assembleia MT",
+      "estados": [
+        "MT"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-assembleia-mt.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCIxlLEYzjWPLb_CXpc-e74w",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCIxlLEYzjWPLb_CXpc-e74w/live"
+      }
+    },
+    {
+      "id": "alems",
+      "nome": "Assembleia MS",
+      "estados": [
+        "MS"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/alems.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCEdaprsWfgfUDh5joar1hCA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCEdaprsWfgfUDh5joar1hCA/live"
+      }
+    },
+    {
+      "id": "almg",
+      "nome": "TV Assembleia MG",
+      "estados": [
+        "MG"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/almg.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw/live"
+      }
+    },
+    {
+      "id": "rede-minas",
+      "nome": "Rede Minas",
+      "estados": [
+        "MG"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/rede-minas.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCXV8LznurdAhfXk660O27uA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCXV8LznurdAhfXk660O27uA/live"
+      }
+    },
+    {
+      "id": "tv-alepa",
+      "nome": "TV Alepa",
+      "estados": [
+        "PA"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-alepa.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCw94nxVxkrk7Q4-ce4zRtDA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCw94nxVxkrk7Q4-ce4zRtDA/live"
+      }
+    },
+    {
+      "id": "cultura-para",
+      "nome": "TV Cultura do Pará",
+      "estados": [
+        "PA"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/cultura-para.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCAzxf2ItqtUKyFyNPAmP7eg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCAzxf2ItqtUKyFyNPAmP7eg/live"
+      }
+    },
+    {
+      "id": "tv-assembleia-pb",
+      "nome": "TV Assembleia PB",
+      "estados": [
+        "PB"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-assembleia-pb.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCAS064DsBXJTdK8kt0CuAKA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCAS064DsBXJTdK8kt0CuAKA/live"
+      }
+    },
+    {
+      "id": "tv-assembleia-pr",
+      "nome": "TV Assembleia PR",
+      "estados": [
+        "PR"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-assembleia-pr.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCjUXQxdkK3l8UZdPykeLixA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCjUXQxdkK3l8UZdPykeLixA/live"
+      }
+    },
+    {
+      "id": "alepe",
+      "nome": "Alepe",
+      "estados": [
+        "PE"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/alepe.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCkyG4rLP-0_83lgIS38LXiQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCkyG4rLP-0_83lgIS38LXiQ/live"
+      }
+    },
+    {
+      "id": "tv-alepi",
+      "nome": "TV Alepi",
+      "estados": [
+        "PI"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-alepi.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCcVeBJf9jm5xgZbs7rrLUPQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCcVeBJf9jm5xgZbs7rrLUPQ/live"
+      }
+    },
+    {
+      "id": "tv-alerj",
+      "nome": "TV Alerj",
+      "estados": [
+        "RJ"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-alerj.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCH1a8t5cikU9cYa69BLVfbQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCH1a8t5cikU9cYa69BLVfbQ/live"
+      }
+    },
+    {
+      "id": "tv-assembleia-rn",
+      "nome": "TV Assembleia RN",
+      "estados": [
+        "RN"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-assembleia-rn.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC5-iXbFxfrauDImM7kMw_Gg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC5-iXbFxfrauDImM7kMw_Gg/live"
+      }
+    },
+    {
+      "id": "al-rs",
+      "nome": "TV Assembleia RS",
+      "estados": [
+        "RS"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/al-rs.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UC9G3uMUKV9iMveYzX2pce1w",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC9G3uMUKV9iMveYzX2pce1w/live"
+      }
+    },
+    {
+      "id": "tve-rs",
+      "nome": "TVE RS",
+      "estados": [
+        "RS"
+      ],
+      "descricao": "Pública",
+      "logo": "logos/tve-rs.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCibGg_isg69dOUFNedG7UnA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCibGg_isg69dOUFNedG7UnA/live"
+      }
+    },
+    {
+      "id": "ale-ro",
+      "nome": "Assembleia RO",
+      "estados": [
+        "RO"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/ale-ro.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCpKkTsjXZsqvbB18sKyutfQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCpKkTsjXZsqvbB18sKyutfQ/live"
+      }
+    },
+    {
+      "id": "ale-rr",
+      "nome": "Assembleia RR",
+      "estados": [
+        "RR"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/ale-rr.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCRdhKdx8sCyx6KTwGmMb78g",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCRdhKdx8sCyx6KTwGmMb78g/live"
+      }
+    },
+    {
+      "id": "alesc",
+      "nome": "TV AL SC",
+      "estados": [
+        "SC"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/alesc.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA/live"
+      }
+    },
+    {
+      "id": "alesp",
+      "nome": "TV Alesp",
+      "estados": [
+        "SP"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/alesp.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCYnRWbd-tDDYf9zgCUlwxFw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCYnRWbd-tDDYf9zgCUlwxFw/live"
+      }
+    },
+    {
+      "id": "tv-alese",
+      "nome": "TV Alese",
+      "estados": [
+        "SE"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-alese.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCs__JVCJx6mWnnf1kKl7tYA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCs__JVCJx6mWnnf1kKl7tYA/live"
+      }
+    },
+    {
+      "id": "tv-aleto",
+      "nome": "TV Aleto",
+      "estados": [
+        "TO"
+      ],
+      "descricao": "Assembleia Legislativa",
+      "logo": "logos/tv-aleto.jpg",
+      "tipo": "youtube",
+      "url": "https://www.youtube.com/channel/UCazFH1qIylYxjBNQhXpPamg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCazFH1qIylYxjBNQhXpPamg/live"
+      }
+    },
+    {
+      "id": "globo",
+      "nome": "Globo",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Rede nacional · afiliada da sua região",
+      "logo": "logos/globo.jpg",
+      "tipo": "app",
+      "url": "",
+      "pacote": "com.globo.globotv",
+      "app": "Globoplay"
+    },
+    {
+      "id": "sbt",
+      "nome": "SBT",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Rede nacional",
+      "logo": "logos/sbt.jpg",
+      "tipo": "app",
+      "url": "",
+      "pacote": "br.com.sbt.mais",
+      "app": "+SBT"
+    },
+    {
+      "id": "record",
+      "nome": "Record",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Rede nacional",
+      "logo": "logos/record.jpg",
+      "tipo": "app",
+      "url": "",
+      "pacote": "com.mobilus.recordplay",
+      "app": "RecordPlus"
+    },
+    {
+      "id": "band",
+      "nome": "Band",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Rede nacional",
+      "logo": "logos/band.jpg",
+      "tipo": "app",
+      "url": "",
+      "pacote": "br.com.band.guiatv",
+      "app": "Bandplay"
+    },
+    {
+      "id": "redetv",
+      "nome": "RedeTV!",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Rede nacional",
+      "logo": "logos/redetv.jpg",
+      "tipo": "app",
+      "url": "",
+      "pacote": "br.com.redetvgo",
+      "app": "RedeTV GO",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCd7VVhgnd2eCv9JEghvR_1w/live"
+      }
+    }
+  ]
+}
