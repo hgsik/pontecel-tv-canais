@@ -1,7 +1,89 @@
 {
   "versao": 1,
-  "atualizado": "2026-10-11",
+  "atualizado": "2026-10-14",
+  "favoritos": [
+    "pontecel-pc-suite",
+    "cazetv",
+    "oeste-sem-filtro",
+    "os-pingos-nos-is",
+    "alexandre-garcia"
+  ],
   "canais": [
+    {
+      "id": "pontecel-pc-suite",
+      "nome": "PonteCel Pc-Suite",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Canal da loja",
+      "logo": "pontecel-pc-suite.jpg",
+      "tipo": "youtube_recente",
+      "url": "https://www.youtube.com/channel/UCRZ27b-EydrlyTV5ieiIZww",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCRZ27b-EydrlyTV5ieiIZww"
+      }
+    },
+    {
+      "id": "cazetv",
+      "nome": "CazéTV",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Esportes",
+      "logo": "cazetv.jpg",
+      "tipo": "youtube_recente",
+      "url": "https://www.youtube.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ"
+      }
+    },
+    {
+      "id": "oeste-sem-filtro",
+      "nome": "Oeste sem Filtro",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Revista Oeste",
+      "logo": "oeste-sem-filtro.jpg",
+      "tipo": "youtube_recente",
+      "url": "https://www.youtube.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg"
+      }
+    },
+    {
+      "id": "os-pingos-nos-is",
+      "nome": "Os Pingos nos Is",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Jovem Pan News",
+      "logo": "os-pingos-nos-is.jpg",
+      "tipo": "youtube_recente",
+      "url": "https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA/live"
+      }
+    },
+    {
+      "id": "alexandre-garcia",
+      "nome": "Alexandre Garcia",
+      "estados": [
+        "BR"
+      ],
+      "descricao": "Comentários",
+      "logo": "alexandre-garcia.jpg",
+      "tipo": "youtube_recente",
+      "url": "https://www.youtube.com/channel/UCitie-To0pWGe5Qyk9SjWRA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCitie-To0pWGe5Qyk9SjWRA"
+      }
+    },
     {
       "id": "tv-brasil",
       "nome": "TV Brasil",
