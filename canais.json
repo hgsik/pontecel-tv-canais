@@ -1,5 +1,5 @@
 {
-  "versao": 2,
+  "versao": 3,
   "atualizado": "2026-10-30",
   "favoritos": [
     "pontecel-pc-suite",
@@ -453,6 +453,58 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCd7VVhgnd2eCv9JEghvR_1w/live"
+      }
+    },
+    {
+      "id": "netmovies",
+      "nome": "NetMovies",
+      "categoria": "Filmes",
+      "descricao": "Filmes dublados",
+      "logo": "netmovies.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCK5RRQ3TdwAbbCWrtnXsN3Q",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCK5RRQ3TdwAbbCWrtnXsN3Q"
+      }
+    },
+    {
+      "id": "film-plus",
+      "nome": "Film Plus",
+      "categoria": "Filmes",
+      "descricao": "Filmes dublados",
+      "logo": "film-plus.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCXi7MtdQ4JeEQN9CQ-w9syA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCXi7MtdQ4JeEQN9CQ-w9syA"
+      }
+    },
+    {
+      "id": "filmelier-tv",
+      "nome": "Filmelier TV",
+      "categoria": "Filmes",
+      "descricao": "Filmes dublados",
+      "logo": "filmelier-tv.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCCRmnBThm-dlqovUoeftVzg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCCRmnBThm-dlqovUoeftVzg"
+      }
+    },
+    {
+      "id": "adrenalina-pura-tv",
+      "nome": "Adrenalina Pura TV",
+      "categoria": "Filmes",
+      "descricao": "Ação e suspense",
+      "logo": "adrenalina-pura-tv.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCWFovw8iyHBezTmaEWEV0RA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCWFovw8iyHBezTmaEWEV0RA"
       }
     }
   ]
