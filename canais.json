@@ -1,5 +1,5 @@
 {
-  "versao": 4,
+  "versao": 5,
   "atualizado": "2026-11-01",
   "favoritos": [
     "pontecel-pc-suite",
@@ -817,6 +817,201 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCRP5p2RfxJgnKyWgve5pJ-Q"
+      }
+    },
+    {
+      "id": "o-show-da-luna",
+      "nome": "O Show da Luna",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "o-show-da-luna.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC-adUJnjdrRnRlOJGoDtTqw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC-adUJnjdrRnRlOJGoDtTqw"
+      }
+    },
+    {
+      "id": "galinha-pintadinha",
+      "nome": "Galinha Pintadinha",
+      "categoria": "Infantil",
+      "descricao": "Músicas infantis",
+      "logo": "galinha-pintadinha.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCBAb_DK4GYZqZR9MFA7y2Xg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCBAb_DK4GYZqZR9MFA7y2Xg"
+      }
+    },
+    {
+      "id": "peppa-pig",
+      "nome": "Peppa Pig",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "peppa-pig.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCvD9GB-E4q_TuMpwUtFBhLA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCvD9GB-E4q_TuMpwUtFBhLA"
+      }
+    },
+    {
+      "id": "discovery-kids",
+      "nome": "Discovery Kids",
+      "categoria": "Infantil",
+      "descricao": "Desenhos",
+      "logo": "discovery-kids.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCb7mSDa6UVj6ZEbvpd8_iyg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCb7mSDa6UVj6ZEbvpd8_iyg"
+      }
+    },
+    {
+      "id": "mr-bean",
+      "nome": "Mr Bean",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "mr-bean.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC0DVrkEtMIuz6x9no_caj3A",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC0DVrkEtMIuz6x9no_caj3A"
+      }
+    },
+    {
+      "id": "discovery-brasil",
+      "nome": "Discovery Brasil",
+      "categoria": "Documentários",
+      "descricao": "Aventura e ciência",
+      "logo": "discovery-brasil.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCt6iLNEJT6v9VHm9hQ04W6g",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCt6iLNEJT6v9VHm9hQ04W6g"
+      }
+    },
+    {
+      "id": "discovery-turbo",
+      "nome": "Discovery Turbo",
+      "categoria": "Documentários",
+      "descricao": "Carros",
+      "logo": "discovery-turbo.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCif5_vJSWCka3ViuTqF2owQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCif5_vJSWCka3ViuTqF2owQ"
+      }
+    },
+    {
+      "id": "discovery-home-health",
+      "nome": "Discovery Home & Health",
+      "categoria": "Documentários",
+      "descricao": "Saúde e casa",
+      "logo": "discovery-home-health.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC9VhtZjYX-bThpByxvqzWCg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC9VhtZjYX-bThpByxvqzWCg"
+      }
+    },
+    {
+      "id": "natureza-vida",
+      "nome": "Natureza Vida",
+      "categoria": "Documentários",
+      "descricao": "Animais",
+      "logo": "natureza-vida.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCWvKs5tAqY8OTzH1r_Sp19A",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCWvKs5tAqY8OTzH1r_Sp19A"
+      }
+    },
+    {
+      "id": "naturevista",
+      "nome": "NatureVista",
+      "categoria": "Documentários",
+      "descricao": "Natureza",
+      "logo": "naturevista.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC885kdyhBTzKHv7rHbXw1oQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC885kdyhBTzKHv7rHbXw1oQ"
+      }
+    },
+    {
+      "id": "receitas-de-pai",
+      "nome": "Receitas de Pai",
+      "categoria": "Culinária",
+      "descricao": "Receitas",
+      "logo": "receitas-de-pai.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCF5WzS-iBJRfp_EcFI-GT1w",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCF5WzS-iBJRfp_EcFI-GT1w"
+      }
+    },
+    {
+      "id": "culinaria-em-casa",
+      "nome": "Culinária em Casa",
+      "categoria": "Culinária",
+      "descricao": "Receitas",
+      "logo": "culinaria-em-casa.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCfrpgW6wypbf7O0Mk8Idq6A",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCfrpgW6wypbf7O0Mk8Idq6A"
+      }
+    },
+    {
+      "id": "receitas-meu-sertao",
+      "nome": "Receitas Fáceis Meu Sertão",
+      "categoria": "Culinária",
+      "descricao": "Comida da roça",
+      "logo": "receitas-meu-sertao.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCd0J_GO168KedCZYKhwVjMQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCd0J_GO168KedCZYKhwVjMQ"
+      }
+    },
+    {
+      "id": "porta-dos-fundos",
+      "nome": "Porta dos Fundos",
+      "categoria": "Humor",
+      "descricao": "Humor",
+      "logo": "porta-dos-fundos.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag"
+      }
+    },
+    {
+      "id": "pura-pesca",
+      "nome": "Programa Pura Pesca",
+      "categoria": "Pesca",
+      "descricao": "Pesca esportiva",
+      "logo": "pura-pesca.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCA69pfM4FwgeC6ADiMcTl1g",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCA69pfM4FwgeC6ADiMcTl1g"
       }
     }
   ]
