@@ -1,6 +1,6 @@
 {
-  "versao": 3,
-  "atualizado": "2026-10-30",
+  "versao": 4,
+  "atualizado": "2026-11-01",
   "favoritos": [
     "pontecel-pc-suite",
     "cazetv",
@@ -505,6 +505,318 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCWFovw8iyHBezTmaEWEV0RA"
+      }
+    },
+    {
+      "id": "netmovies-acao",
+      "nome": "NetMovies Ação",
+      "categoria": "Filmes",
+      "descricao": "Ação",
+      "logo": "netmovies-acao.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCSkBHTQr29FdMU8klx-yFCg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCSkBHTQr29FdMU8klx-yFCg"
+      }
+    },
+    {
+      "id": "netmovies-comedia",
+      "nome": "NetMovies Comédia",
+      "categoria": "Filmes",
+      "descricao": "Comédia",
+      "logo": "netmovies-comedia.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCj6_TTox6oA8Q_clgNLZYYw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCj6_TTox6oA8Q_clgNLZYYw"
+      }
+    },
+    {
+      "id": "netmovies-drama",
+      "nome": "NetMovies Drama",
+      "categoria": "Filmes",
+      "descricao": "Drama",
+      "logo": "netmovies-drama.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCbD5QmK3ET52M6JVFPf2QXA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCbD5QmK3ET52M6JVFPf2QXA"
+      }
+    },
+    {
+      "id": "netmovies-suspense",
+      "nome": "NetMovies Suspense",
+      "categoria": "Filmes",
+      "descricao": "Suspense",
+      "logo": "netmovies-suspense.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCBIRfRFt5Qm342yvYh_7Wcw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCBIRfRFt5Qm342yvYh_7Wcw"
+      }
+    },
+    {
+      "id": "netmovies-terror",
+      "nome": "NetMovies Terror",
+      "categoria": "Filmes",
+      "descricao": "Terror",
+      "logo": "netmovies-terror.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UClmVP5gwbiXqfONB4IEU-Xg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UClmVP5gwbiXqfONB4IEU-Xg"
+      }
+    },
+    {
+      "id": "netmovies-romance",
+      "nome": "NetMovies Romance",
+      "categoria": "Filmes",
+      "descricao": "Romance",
+      "logo": "netmovies-romance.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCwxDy42GLyZlJ-JfIFa2ajg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCwxDy42GLyZlJ-JfIFa2ajg"
+      }
+    },
+    {
+      "id": "netmovies-familia",
+      "nome": "NetMovies Família",
+      "categoria": "Filmes",
+      "descricao": "Família",
+      "logo": "netmovies-familia.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC1vGd-MHPg0fKoIku6Mw1wQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC1vGd-MHPg0fKoIku6Mw1wQ"
+      }
+    },
+    {
+      "id": "netmovies-classicos",
+      "nome": "NetMovies Clássicos",
+      "categoria": "Filmes",
+      "descricao": "Clássicos",
+      "logo": "netmovies-classicos.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCklg72s4SymWVrriqiUgXhw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCklg72s4SymWVrriqiUgXhw"
+      }
+    },
+    {
+      "id": "netmovies-velho-oeste",
+      "nome": "NetMovies Velho Oeste",
+      "categoria": "Filmes",
+      "descricao": "Faroeste",
+      "logo": "netmovies-velho-oeste.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCPB94_mkTL2_-L_MEdeo3WA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCPB94_mkTL2_-L_MEdeo3WA"
+      }
+    },
+    {
+      "id": "film-plus-action",
+      "nome": "Film Plus Action",
+      "categoria": "Filmes",
+      "descricao": "Ação e suspense",
+      "logo": "film-plus-action.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCtu-2rzZC-a2KMyYu6o5JTw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCtu-2rzZC-a2KMyYu6o5JTw"
+      }
+    },
+    {
+      "id": "film-plus-emotion",
+      "nome": "Film Plus Emotion",
+      "categoria": "Filmes",
+      "descricao": "Romance e drama",
+      "logo": "film-plus-emotion.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC1cdujEqJVPeVgfCz83ZqPw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC1cdujEqJVPeVgfCz83ZqPw"
+      }
+    },
+    {
+      "id": "film-plus-family",
+      "nome": "Film Plus Family",
+      "categoria": "Filmes",
+      "descricao": "Família",
+      "logo": "film-plus-family.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC7cAIuzcJD6Rqgld4HDyFog",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC7cAIuzcJD6Rqgld4HDyFog"
+      }
+    },
+    {
+      "id": "noite-de-filmes",
+      "nome": "Noite de Filmes",
+      "categoria": "Filmes",
+      "descricao": "Suspense",
+      "logo": "noite-de-filmes.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCQDVoD6MryrEDIJoRndD25Q",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCQDVoD6MryrEDIJoRndD25Q"
+      }
+    },
+    {
+      "id": "alta-tensao",
+      "nome": "Alta Tensão",
+      "categoria": "Filmes",
+      "descricao": "Ação",
+      "logo": "alta-tensao.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC8L4Qu7R0S1MHpVWjO6xx9A",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC8L4Qu7R0S1MHpVWjO6xx9A"
+      }
+    },
+    {
+      "id": "booh",
+      "nome": "Booh!",
+      "categoria": "Filmes",
+      "descricao": "Terror e suspense",
+      "logo": "booh.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCCRcc57uwd6XlTcTCBSfOyg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCCRcc57uwd6XlTcTCBSfOyg"
+      }
+    },
+    {
+      "id": "grjngo",
+      "nome": "Grjngo",
+      "categoria": "Filmes",
+      "descricao": "Faroeste",
+      "logo": "grjngo.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCpuFQWstSTZ_q_qtCZq0phg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCpuFQWstSTZ_q_qtCZq0phg"
+      }
+    },
+    {
+      "id": "swen-family",
+      "nome": "Swen Family",
+      "categoria": "Filmes",
+      "descricao": "Família",
+      "logo": "swen-family.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCFTqGyR5DrbmLemBVh1ibSA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCFTqGyR5DrbmLemBVh1ibSA"
+      }
+    },
+    {
+      "id": "netmovies-kids",
+      "nome": "NetMovies Kids",
+      "categoria": "Infantil",
+      "descricao": "Filmes infantis",
+      "logo": "netmovies-kids.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCFxHT3Nz5n_Co48GqcdwdKA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCFxHT3Nz5n_Co48GqcdwdKA"
+      }
+    },
+    {
+      "id": "masha-e-o-urso",
+      "nome": "Masha e o Urso",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "masha-e-o-urso.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCJKBSfD5JSUxGhriFeoPCCg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCJKBSfD5JSUxGhriFeoPCCg"
+      }
+    },
+    {
+      "id": "george-o-curioso",
+      "nome": "George, o Curioso",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "george-o-curioso.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCg3VS8afaNzH4EWJmMcdqMg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCg3VS8afaNzH4EWJmMcdqMg"
+      }
+    },
+    {
+      "id": "pj-masks",
+      "nome": "PJ Masks",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "pj-masks.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UC6RA9q6uVGJpe4QcS3UmGmg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UC6RA9q6uVGJpe4QcS3UmGmg"
+      }
+    },
+    {
+      "id": "luluzinha",
+      "nome": "Luluzinha",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "luluzinha.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCv9NGc0M31y3L6CdF8ASvdA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCv9NGc0M31y3L6CdF8ASvdA"
+      }
+    },
+    {
+      "id": "os-smurfs",
+      "nome": "Os Smurfs",
+      "categoria": "Infantil",
+      "descricao": "Desenho",
+      "logo": "os-smurfs.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCUNhsJ_rjavZ0_BROiyQmJg",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCUNhsJ_rjavZ0_BROiyQmJg"
+      }
+    },
+    {
+      "id": "history-brasil",
+      "nome": "History Brasil",
+      "categoria": "Documentários",
+      "descricao": "História",
+      "logo": "history-brasil.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCRP5p2RfxJgnKyWgve5pJ-Q",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCRP5p2RfxJgnKyWgve5pJ-Q"
       }
     }
   ]
