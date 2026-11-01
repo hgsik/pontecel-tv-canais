@@ -1,5 +1,5 @@
 {
-  "versao": 5,
+  "versao": 6,
   "atualizado": "2026-11-01",
   "favoritos": [
     "pontecel-pc-suite",
@@ -1012,6 +1012,19 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCA69pfM4FwgeC6ADiMcTl1g"
+      }
+    },
+    {
+      "id": "el-chavo-del-8",
+      "nome": "Chaves (El Chavo del 8)",
+      "categoria": "Humor",
+      "descricao": "Oficial, em espanhol",
+      "logo": "el-chavo-del-8.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCh5MQwi8K56I453DeQ3erDw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCh5MQwi8K56I453DeQ3erDw"
       }
     }
   ]
