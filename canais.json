@@ -1,6 +1,6 @@
 {
-  "versao": 6,
-  "atualizado": "2026-11-01",
+  "versao": 7,
+  "atualizado": "2026-11-02",
   "favoritos": [
     "pontecel-pc-suite",
     "cazetv",
@@ -989,19 +989,6 @@
       }
     },
     {
-      "id": "porta-dos-fundos",
-      "nome": "Porta dos Fundos",
-      "categoria": "Humor",
-      "descricao": "Humor",
-      "logo": "porta-dos-fundos.jpg",
-      "tipo": "youtube_lista",
-      "url": "https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag",
-      "reserva": {
-        "tipo": "youtube_app",
-        "url": "https://www.youtube.com/channel/UCEWHPFNilsT0IfQfutVzsag"
-      }
-    },
-    {
       "id": "pura-pesca",
       "nome": "Programa Pura Pesca",
       "categoria": "Pesca",
@@ -1012,19 +999,6 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCA69pfM4FwgeC6ADiMcTl1g"
-      }
-    },
-    {
-      "id": "el-chavo-del-8",
-      "nome": "Chaves (El Chavo del 8)",
-      "categoria": "Humor",
-      "descricao": "Oficial, em espanhol",
-      "logo": "el-chavo-del-8.jpg",
-      "tipo": "youtube_lista",
-      "url": "https://www.youtube.com/channel/UCh5MQwi8K56I453DeQ3erDw",
-      "reserva": {
-        "tipo": "youtube_app",
-        "url": "https://www.youtube.com/channel/UCh5MQwi8K56I453DeQ3erDw"
       }
     }
   ]
