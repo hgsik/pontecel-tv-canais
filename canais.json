@@ -1,5 +1,5 @@
 {
-  "versao": 7,
+  "versao": 8,
   "atualizado": "2026-11-02",
   "favoritos": [
     "pontecel-pc-suite",
@@ -999,6 +999,19 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCA69pfM4FwgeC6ADiMcTl1g"
+      }
+    },
+    {
+      "id": "noverama-tv",
+      "nome": "Noverama TV",
+      "categoria": "Novelas",
+      "descricao": "Novelas turcas dubladas",
+      "logo": "noverama-tv.jpg",
+      "tipo": "youtube_lista",
+      "url": "https://www.youtube.com/channel/UCTszm6wt7uLhkiPmvThkbAA",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/channel/UCTszm6wt7uLhkiPmvThkbAA"
       }
     }
   ]
