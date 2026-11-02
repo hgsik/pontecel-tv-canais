@@ -1,5 +1,5 @@
 {
-  "versao": 9,
+  "versao": 10,
   "atualizado": "2026-11-02",
   "favoritos": [
     "pontecel-pc-suite",
@@ -1038,6 +1038,45 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/playlist?list=PLPLO4zpZqBY0"
+      }
+    },
+    {
+      "id": "coracao-de-jade",
+      "nome": "O Coração de Jade",
+      "categoria": "Doramas",
+      "descricao": "YOUKU · Drama chinês legendado",
+      "logo": "coracao-de-jade.jpg",
+      "tipo": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLYocKvFWoGAw",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/playlist?list=PLYocKvFWoGAw"
+      }
+    },
+    {
+      "id": "memoria-ladrilho-encaustico",
+      "nome": "Memória de um Ladrilho Encáustico",
+      "categoria": "Doramas",
+      "descricao": "YOUKU · Drama chinês legendado",
+      "logo": "memoria-ladrilho-encaustico.jpg",
+      "tipo": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLfrwBnzIGCIQ",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/playlist?list=PLfrwBnzIGCIQ"
+      }
+    },
+    {
+      "id": "querido-diario",
+      "nome": "Querido Diário",
+      "categoria": "Doramas",
+      "descricao": "YOUKU · Drama chinês legendado",
+      "logo": "querido-diario.jpg",
+      "tipo": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLaqmES5t5WMk",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/playlist?list=PLaqmES5t5WMk"
       }
     }
   ]
