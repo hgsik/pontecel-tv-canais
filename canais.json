@@ -1,5 +1,5 @@
 {
-  "versao": 8,
+  "versao": 9,
   "atualizado": "2026-11-02",
   "favoritos": [
     "pontecel-pc-suite",
@@ -1012,6 +1012,32 @@
       "reserva": {
         "tipo": "youtube_app",
         "url": "https://www.youtube.com/channel/UCTszm6wt7uLhkiPmvThkbAA"
+      }
+    },
+    {
+      "id": "amor-de-aluguel",
+      "nome": "Amor de Aluguel",
+      "categoria": "Novelas",
+      "descricao": "Noverama TV · Novela turca dublada",
+      "logo": "amor-de-aluguel.jpg",
+      "tipo": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLy-dpRAjEvgtHoarDszWXsifzvmeji8EP",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/playlist?list=PLy-dpRAjEvgtHoarDszWXsifzvmeji8EP"
+      }
+    },
+    {
+      "id": "outra-vez-voce",
+      "nome": "Outra Vez Você",
+      "categoria": "Novelas",
+      "descricao": "Noverama TV · Novela turca dublada",
+      "logo": "outra-vez-voce.jpg",
+      "tipo": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLPLO4zpZqBY0",
+      "reserva": {
+        "tipo": "youtube_app",
+        "url": "https://www.youtube.com/playlist?list=PLPLO4zpZqBY0"
       }
     }
   ]
